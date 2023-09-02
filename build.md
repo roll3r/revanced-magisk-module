@@ -1,4 +1,4 @@
-Tiktok: 31.1.3  
+LRMobile: 8.5.1  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
