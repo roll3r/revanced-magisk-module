@@ -13,5 +13,6 @@ apkmirror-arch = "both"
 
 [LRMobile]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+apkmirror-arch = "arm64-v8a"
 build-mode = "both"
 version = "8.5.1"
