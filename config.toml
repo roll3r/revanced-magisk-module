@@ -11,7 +11,6 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "both"
 
-[DuoLingo]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 build-mode = "both"
-version = "5.117.3"
