@@ -1,4 +1,4 @@
-DuoLingo: 5.117.3  
+Tiktok: 31.1.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
