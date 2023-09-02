@@ -11,8 +11,12 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "both"
 
-[LRMobile]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
-apkmirror-arch = "arm64-v8a + x86_64"
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
+rv-brand = "ReVanced Extended"
 build-mode = "both"
-version = "8.5.1"
+version = "18.32.39"
+excluded-patches = "change-homepage custom-branding-youtube-name custom-branding-icon-revancify-blue custom-package-name"
